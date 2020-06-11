@@ -1,16 +1,5 @@
 # cilma_flutter
 
-A new Flutter application.
+![Screenshot_1587501611](https://user-images.githubusercontent.com/63372032/84374493-5972b300-abde-11ea-91f2-aa44c7a9626b.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1587501416](https://user-images.githubusercontent.com/63372032/84374509-5d063a00-abde-11ea-9990-0283e7c9c956.png)
